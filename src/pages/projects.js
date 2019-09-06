@@ -22,6 +22,8 @@ function Projects({ data }) {
               cardTitle={node.title}
               cardSubtitle={node.subtitle}
               link={node.link}
+              image={node.image.childImageSharp.fluid}
+              technologies={node.technologies}
               key={node.id}
             />
           )
@@ -38,10 +40,16 @@ export const query = graphql`
     allProjectsYaml {
       edges {
         node {
-          title
-          subtitle
-          link
           id
+          subtitle
+          technologies
+          image {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     }

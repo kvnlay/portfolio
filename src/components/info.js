@@ -13,8 +13,11 @@ export default function info() {
     <div className="container">
       <div className="my-5"></div>
       <div className="display-3" style={{ color: "#FF8A00" }}>
-        <span style = {{color : "white"}}>Hello, I'm</span> <br />
-        Sumanth.
+        <span style={{ color: "white" }}>
+          Hello, I'm
+        </span>{" "}
+        <br />
+        <span className="my-name"> Kingsley Omotayo </span>
       </div>
       <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">

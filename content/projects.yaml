@@ -1,23 +1,35 @@
 - title: Qr-Code-Application
   subtitle: A new Flutter project
   link: https://github.com/Mr404Found/Qr-Code-Application
+  image: ../src/images/gatsby-astronaut.png
+  technologies: [HTML, CSS, JS]
 
 - title: Basic Music
   subtitle: Basic Music Player That lets you to play music
   link: https://github.com/Mr404Found/Basic-Music-Player
+  image: ../src/images/laptop-code.jpeg
+  technologies: [HTML, CSS, JS]
 
 - title: Age Calculator
   subtitle: Get Your Age
   link: https://github.com/Mr404Found/AgeCalculator
+  image: ../src/images/laptop-code.jpeg
+  technologies: [HTML, CSS, JS]
 
 - title: Qr-Code-Application
   subtitle: A new Flutter project
   link: https://github.com/Mr404Found/Qr-Code-Application
+  image: ../src/images/laptop-code.jpeg
+  technologies: [HTML, CSS, JS]
 
 - title: Qr-Code-Application
   subtitle: A new Flutter project
   link: https://github.com/Mr404Found/Qr-Code-Application
+  image: ../src/images/laptop-code.jpeg
+  technologies: [HTML, CSS, JS]
 
 - title: Qr-Code-Application
   subtitle: A new Flutter project
   link: https://github.com/Mr404Found/Qr-Code-Application
+  image: ../src/images/laptop-code.jpeg
+  technologies: [HTML, CSS, JS]
